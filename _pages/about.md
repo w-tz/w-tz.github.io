@@ -28,7 +28,7 @@ redirect_from:
 # 📖 Educations
 
 - *Sept 2023 - Mar 2026 (Expected)*: Postgraduate, College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China.
-- *Aug 2019 - Jun 2023*: Undergraduate, School of Information and Control Engineering , Xuzhou, China.
+- *Aug 2019 - Jun 2023*: Undergraduate, School of Information and Control Engineering, China University of Mining and Technology, Xuzhou, China.
 
 # 👨‍💼 Internships
 
