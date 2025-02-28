@@ -22,7 +22,7 @@ repository               : "w-tz/w-tz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_photo.png"
   name             : "Tianze Wu"
   pronouns         : # example: "she/her"  
   bio              : "A second-year Master's Candidate in ZJU"
