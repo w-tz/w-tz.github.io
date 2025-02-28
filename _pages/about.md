@@ -20,12 +20,12 @@ redirect_from:
 - To be updated
 - 
 
-# 📖 Educations
+# 📖 Education
 
 - M.Phil. in College of Information Science & Electronic Engineering, **Zhejiang University**, Sept 2023 - Mar 2026 (Expected).
 - B.Eng. in School of Information and Control Engineering, **China University of Mining and Technology**, Aug 2019 - Jun 2023.
 
-# 👨‍💼 Internships
+# 👨‍💼 Experience
 
 - **Research Intern**, School of Integrated Circuit Engineering, **Tsinghua University**. Supervised by [Prof. Zuozhang Ye](https://www.ime.tsinghua.edu.cn/info/1014/1778.htm).
 - **Research Intern**, [Ningbo Institute of Digital Twin](https://idt.eitech.edu.cn/), **Eastern Institute of Technology, Ningbo**. Supervised by [Prof. Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en) and [Prof. Ting-Jung Lin](https://ieeexplore.ieee.org/author/37090062293).
