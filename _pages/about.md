@@ -29,7 +29,7 @@ redirect_from:
 
 - **Research Intern**, School of Integrated Circuit Engineering, **Tsinghua University**. Supervised by [Prof. Zuozhang Ye](https://www.ime.tsinghua.edu.cn/info/1014/1778.htm).
 - **Research Intern**, Ningbo Institute of Digital Twin, **Eastern Institute of Technology, Ningbo**. Supervised by [Prof. Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en) and [Prof. Ting-Jung Lin](https://ieeexplore.ieee.org/author/37090062293).
-- **Research Intern**, Deepwise AI Lab, **Deepwise**. Supervised by [Prof. Yizhou Yu](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en) and [Dr. Xiaoqing Liu](https://scholar.google.com/citations?user=Kdas6moAAAAJ&hl=en).
+- **Research Intern**, Deepwise AI Lab, **Deepwise**. Supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) and [Dr. Xiaoqing Liu](https://scholar.google.com/citations?user=Kdas6moAAAAJ&hl=en).
 
 # 🎖 Honors and Awards
 
