@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -18,7 +18,8 @@ redirect_from:
 
 # 🔥 News
 
-- *2025.03*:.
+- To be updated
+#- *2025.03*:.
 
 
 # 🎖 Honors and Awards
