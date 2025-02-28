@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I’m a Master student from Zhejiang University. My research interest includes LLM4EDA.
+ I’m a master's student from Zhejiang University. My research interest includes LLM4EDA.
