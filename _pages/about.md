@@ -21,7 +21,7 @@ redirect_from:
 
 # 📖 Education
 
-- M.Phil. in College of Information Science & Electronic Engineering, **Zhejiang University**, Sept 2023 - Mar 2026 (Expected). Advised by [Prof. Liang Zhao](https://person.zju.edu.cn/liangzhao) and [Prof. Zuozhang Ye (THU)](https://www.ime.tsinghua.edu.cn/info/1014/1778.htm).
+- M.Phil. in College of Information Science & Electronic Engineering, **Zhejiang University**, Sept 2023 - Mar 2026 (Expected). Advised by [Prof. Liang Zhao](https://person.zju.edu.cn/liangzhao) and [Prof. Zuozhang Ye](https://www.ime.tsinghua.edu.cn/info/1014/1778.htm) (THU).
 - B.Eng. in School of Information and Control Engineering, **China University of Mining and Technology**, Aug 2019 - Jun 2023.
 
 # 👨‍💼 Experience
