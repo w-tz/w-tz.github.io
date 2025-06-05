@@ -17,8 +17,7 @@ redirect_from:
 
 # 🔥 News
 
-- To be updated
-- 
+- Our two papers were received by ISEDA2025!
 
 # 📖 Education
 
