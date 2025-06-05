@@ -34,31 +34,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python, C/C++, Matlab
+* **Other Tools & Technologies**: Linux and Shell, Git, VS code; Virtuoso, Calibre; Visio, LaTeX 
+* **Languages**: Chinese, English (CET-6: 551, CET-4: 554)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Tianze Wu**, Zezhi Chen, Chenkai Chai, Jinglei Hao, Qian Qin, Yukai Lu, Zhichao Lu, Zuochang Ye, Liang Zhao. **AutoRRAM: An Agile RRAM Compiler Featuring Simultaneous Layout/Netlist Generation and Cross-Technology Migration.** ISEDA 2025.
+* Fanzi Meng, Xiapeng Xu, **Tianze Wu**, Xinxin Xu, Xiaojiang Guo2 Qiang Tang, Liang Zhao. **NandPIM: An Optimization Framework for 2D/3D NAND-Based PIM Featuring Genetic Algorithm-based Search of Design Space.** ISEDA 2025.
+* William Liu, Liang Liu, Yaxuan Guo, Han Xiao, Weifeng Lin, Yuxiang Chai, Shuai Ren, Xiaoyu Liang, Linghao Li, Wenhao Wang, **Tianze Wu**, Yong Liu, Hao Wang, Hongsheng Li, Guanjing Xiong. **[LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects.](https://doi.org/10.20944/preprints202501.0413.v1)** Preprints.
+
+
