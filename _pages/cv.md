@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Phil. in College of Information Science & Electronic Engineering, Zhejiang University, Sept 2023 - Mar 2026 (Expected).
+* B.Eng. in School of Information and Control Engineering, China University of Mining and Technology, Aug 2019 - Jun 2023.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Intern, School of Integrated Circuit Engineering, Tsinghua University.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern, Ningbo Institute of Digital Twin, Eastern Institute of Technology, Ningbo. 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Intern, Deepwise AI Lab, Deepwise. 
   
 Skills
 ======
