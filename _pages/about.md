@@ -13,11 +13,12 @@ redirect_from:
 <br>
  I am **Tianze Wu**, a M.E. candidate at [Zhejiang University](https://www.zju.edu.cn/).
 
- My research interest includes LLM4EDA. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [tzw@zju.edu.cn](tzw@zju.edu.cn) 😃
+ My research interest is LLM for EDA. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [tzw@zju.edu.cn](tzw@zju.edu.cn) 😃
 
 # 🔥 News
 
-- Our two papers were accepted by ISEDA2025!
+- July 12, 2025: One paper were submitted to ASP-DAC2026. Good Luck!
+- March 27, 2025: Our two papers were accepted by ISEDA2025!
 
 # 📖 Education
 
