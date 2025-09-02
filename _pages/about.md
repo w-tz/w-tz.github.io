@@ -17,7 +17,6 @@ redirect_from:
 
 # 🔥 News
 
-- July 12, 2025: One paper was submitted to ASP-DAC2026. Good Luck!
 - March 27, 2025: Our two papers were accepted by ISEDA2025!
 
 # 📖 Education
