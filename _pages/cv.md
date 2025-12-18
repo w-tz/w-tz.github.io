@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Phil. in College of Information Science & Electronic Engineering, Zhejiang University, Sept. 2023 - Mar. 2026 (Expected).
+* M.Eng. in College of Information Science & Electronic Engineering, Zhejiang University, Sept. 2023 - Mar. 2026 (Expected).
 * B.Eng. in School of Information and Control Engineering, China University of Mining and Technology, Aug. 2019 - Jun. 2023.
 
 Work experience
