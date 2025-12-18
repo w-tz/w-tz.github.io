@@ -16,16 +16,16 @@ redirect_from:
  My research interest is LLM for EDA. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [tzw@zju.edu.cn](tzw@zju.edu.cn) 😃
 
 # 🔥 News
-- November 18, 2025: Our two papers were submitted to CICC2026. Good luck!
-- October 27, 2025: Our one paper was invited by ISCAS2026!
-- October 22, 2025: Our one paper was accepted by TMLR! 🎉
-- September 27, 2025: A first-author paper was submitted to ISQED2026. Good luck!
-- March 27, 2025: Our two papers were accepted by ISEDA2025! 🎉
+- Nov. 18, 2025: Our two papers were submitted to CICC2026. Good luck!
+- Oct. 27, 2025: Our one paper was invited by ISCAS2026!
+- Oct. 22, 2025: Our one paper was accepted by TMLR! 🎉
+- Sept. 27, 2025: A first-author paper was submitted to ISQED2026. Good luck!
+- Mar. 27, 2025: Our two papers were accepted by ISEDA2025! 🎉
 
 # 📖 Education
 
-- M.Phil. in College of Information Science & Electronic Engineering, **Zhejiang University**, Sept 2023 - Mar 2026 (Expected). Advised by [Prof. Liang Zhao](https://person.zju.edu.cn/liangzhao) and [Prof. Zuozhang Ye](https://www.ime.tsinghua.edu.cn/info/1014/1778.htm) (THU).
-- B.Eng. in School of Information and Control Engineering, **China University of Mining and Technology**, Aug 2019 - Jun 2023.
+- M.Phil. in College of Information Science & Electronic Engineering, **Zhejiang University**, Sept. 2023 - Mar. 2026 (Expected). Advised by [Prof. Liang Zhao](https://person.zju.edu.cn/liangzhao) and [Prof. Zuozhang Ye](https://www.ime.tsinghua.edu.cn/info/1014/1778.htm) (THU).
+- B.Eng. in School of Information and Control Engineering, **China University of Mining and Technology**, Aug. 2019 - Jun. 2023.
 
 # 👨‍💼 Experience
 
