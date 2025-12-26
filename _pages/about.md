@@ -16,8 +16,8 @@ redirect_from:
  My research interest is LLM for EDA. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [tzw@zju.edu.cn](tzw@zju.edu.cn) 😃
 
 # 🔥 News
+- Dec. 22, 2025: Our one paper was accepted by ISCAS2026! 🎉
 - Nov. 18, 2025: Our two papers were submitted to CICC2026. Good luck!
-- Oct. 27, 2025: Our one paper was invited by ISCAS2026!
 - Oct. 22, 2025: Our one paper was accepted by TMLR! 🎉
 - Sept. 27, 2025: A first-author paper was submitted to ISQED2026. Good luck!
 - Mar. 27, 2025: Our two papers were accepted by ISEDA2025! 🎉
