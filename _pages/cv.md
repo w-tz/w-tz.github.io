@@ -26,7 +26,7 @@ Skills
 ======
 * **Programming Languages**: Python, C/C++, Matlab
 * **Other Tools & Technologies**: Linux and Shell, Git, VS code; Virtuoso, Calibre; Visio, LaTeX 
-* **Languages**: Chinese, English (CET-6: 551, CET-4: 554)
+* **Languages**: Chinese, English (IELTS: 7.0- 7.5/8/6/6, CET-6: 551, CET-4: 554)
 
 Publications
 ======
